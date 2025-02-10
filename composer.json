@@ -4,7 +4,6 @@
     "type": "project",
     "require": {
         "alrik11es/cowsayphp": "^1.2",
-        "php": "^8.3"
     },
     "authors": [
         {
