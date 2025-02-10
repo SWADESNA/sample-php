@@ -20,9 +20,7 @@
                 "reference": "080dc10c8f5420fef35163569293601f17124eeb",
                 "shasum": ""
             },
-            "require": {
-                "php": ">=5.6.0"
-            },
+         
             "require-dev": {
                 "phpunit/phpunit": "5.*",
                 "scrutinizer/ocular": "~1.1"
